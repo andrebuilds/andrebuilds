@@ -34,5 +34,5 @@ I don't create courses about AI. I create AI products. Big difference.
   <br/><br/>
   <img src="https://github-readme-stats.vercel.app/api?username=andrebuilds&show_icons=true&locale=en&theme=gruvbox" alt="andrebuilds" />
   <br/><br/>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=andrebuilds&theme=gruvbox" alt="andrebuilds" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=andrebuilds&theme=merko" alt="andrebuilds" />
 </div>

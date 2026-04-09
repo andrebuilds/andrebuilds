@@ -4,7 +4,7 @@
 
 17 years ago, I taught myself to code. No bootcamp. No CS degree. Just curiosity and a lot of Stack Overflow. Started with a chemistry background, ended up building AI products that people actually use. Founded **SkyClouds** in 2022, an Italian deep tech AI startup with startup innovativa status.
 What I've shipped:
-- **Cassandra**: AI Agent for costumers support and sales
+- **Cassandra AI**: AI Agent for costumers support and sales
 - **TuBoost**: Converts long videos into viral social media clips
 - **Mutalys**: Genetic variant pathogenicity prediction platform  
 - **Melodyc**: AI music generation SaaS

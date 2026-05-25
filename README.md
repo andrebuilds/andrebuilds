@@ -6,8 +6,6 @@
 What I've shipped:
 - **Cassandra AI**: AI Agent for costumers support and sales
 - **TuBoost**: Converts long videos into viral social media clips
-- **Mutalys**: Genetic variant pathogenicity prediction platform  
-- **Melodyc**: AI music generation SaaS
 
 
 My stack: Python, Next.js, TypeScript, AWS, and whatever gets the job done. I build full-stack, deploy to production, and iterate based on real user feedback.

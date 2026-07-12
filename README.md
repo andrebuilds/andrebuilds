@@ -1,15 +1,25 @@
 # 🐉 Andrea D'Ambrosio
+**`Building DuckCode — the AI coding agent that makes you better, not just faster`**
 
-**`Deep tech AI founder. 17 years building. Cassandra, Melodyc, Mutalys, Tuboost`**
+I taught myself to code 17 years ago. No bootcamp. No CS degree. Just curiosity and a lot of Stack Overflow.
 
-17 years ago, I taught myself to code. No bootcamp. No CS degree. Just curiosity and a lot of Stack Overflow. Started with a chemistry background, ended up building AI products that people actually use. Founded **SkyClouds** in 2022, an Italian deep tech AI startup with startup innovativa status.
-What I've shipped:
-- **Cassandra AI**: AI Agent for costumers support and sales
-- **TuBoost**: Converts long videos into viral social media clips
+Now I'm building **DuckCode** — the terminal AI agent that doesn't just write code for you. It makes you a better developer while you ship.
 
+Five modes. One terminal. Zero API keys.
 
-My stack: Python, Next.js, TypeScript, AWS, and whatever gets the job done. I build full-stack, deploy to production, and iterate based on real user feedback.
-I don't create courses about AI. I create AI products. Big difference.
+- **Build** — write code with diff previews on every change
+- **Plan** — explore your codebase without touching a file
+- **Duck** — rubber-duck debugging with an AI that asks questions instead of answers
+- **Loop** — autonomous execution until the tests pass
+- **Hack** — dedicated security audit that finds what you missed
+
+22 AI models. 6 providers. Transparent credit-based pricing. You see what every action costs, in real time.
+
+Every other AI coding tool races to replace you. DuckCode is built to make you unreplaceable.
+
+`npm i -g duckcode-cli`
+
+I don't create courses about AI. I ship AI products. Big difference.
 
 #
 

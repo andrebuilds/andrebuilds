@@ -22,12 +22,14 @@ Every other AI coding tool races to replace you. DuckCode is built to make you u
 I don't create courses about AI. I ship AI products. Big difference.
 
 #
-### 💻 Languages and Tools
+### 💻 Stack
+
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=typescript,nodejs,react,nextjs,python,postgres,prisma,tailwind,git,github,aws,docker,vercel,bun,vscode,linux" />
+    <img src="https://skillicons.dev/icons?i=typescript,go,rust,python,nodejs,nextjs,react,postgres,redis,prisma,graphql,aws,gcp,docker,kubernetes,terraform,linux,bash,git,github,githubactions,grafana,prometheus,nginx" />
   </a>
 </p>
+
 #
 
 
